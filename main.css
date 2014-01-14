@@ -1,0 +1,17 @@
+html, body {
+	margin: 10px;
+	padding: 10px;
+	background: #3bceac;
+}
+
+h1 {
+	text-align: center;
+}
+
+.someClass {
+	font-weight: bold;
+}
+
+#someId {
+	color: red;
+}
